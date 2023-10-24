@@ -1,6 +1,6 @@
 {
   "name": "b2b-swatches",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Common B2B Swatches definitions",
   "main": "index.js",
   "scripts": {
