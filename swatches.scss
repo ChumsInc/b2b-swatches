@@ -8,6 +8,7 @@ label.color-swatch,
   &.color-swatch--leather-100 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-leather-100.jpg');}
   &.color-swatch--suede-100 {background-color: #000000;}
   &.color-swatch--100 {background-color: #000000;}
+  &.color-swatch--ss100 {background-color: #000000;}
   &.color-swatch--dual-100 {background-color: #000000;}
   &.color-swatch--101 {background-color: #2D348D;}
   &.color-swatch--tech-101 {background-color: #99becc;}
@@ -295,12 +296,14 @@ label.color-swatch,
   &.color-swatch--375 {background-image: url('//b2b.chums.com/images/swatches/2024/swatch-375.jpg');}
   &.color-swatch--376 {background-image: url('//b2b.chums.com/images/swatches/2024/swatch-376.jpg');}
   &.color-swatch--377 {background-image: url('//b2b.chums.com/images/swatches/2024/swatch-377.jpg');}
-  &.color-swatch--378 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-262.png');}
+  &.color-swatch--378 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-378.png');}
+  &.color-swatch--ss378 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-378.png');}
   &.color-swatch--379 {background-image: url('//b2b.chums.com/images/swatches/2024/swatch-379.jpg');}
   &.color-swatch--380 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-380.png');}
   &.color-swatch--381 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-381.png');}
   &.color-swatch--382 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-382.png');}
   &.color-swatch--383 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-383.png');}
+  &.color-swatch--ss383 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-383.png');}
   &.color-swatch--384 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-384.png');}
   &.color-swatch--385 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-385.png');}
   &.color-swatch--386 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-386.png');}
@@ -314,6 +317,7 @@ label.color-swatch,
   &.color-swatch--395 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-395.png');}
   &.color-swatch--396 {background-color: var(--missing-swatch);}
   &.color-swatch--397 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-397.png');}
+  &.color-swatch--ss397 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-397.png');}
   &.color-swatch--398 {background-color: var(--missing-swatch);}
   &.color-swatch--399 {background-color: var(--missing-swatch);}
 
@@ -576,6 +580,7 @@ label.color-swatch,
   &.color-swatch--1033 {background-image: url('//b2b.chums.com/images/swatches/2022/swatch-1033.png');}
   &.color-swatch--1034 {background-image: url('//b2b.chums.com/images/swatches/2022/swatch-1034.png');}
   &.color-swatch--1041 {background-image: url('//b2b.chums.com/images/swatches/2022/swatch-1041.png');}
+  // seersucker
   &.color-swatch--100-seersucker {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-100.jpg');}
   &.color-swatch--101-seersucker {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-101.jpg');}
   &.color-swatch--106-seersucker {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-106.jpg');}
@@ -583,10 +588,9 @@ label.color-swatch,
   &.color-swatch--166-seersucker {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-166.jpg');}
   &.color-swatch--601-seersucker {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-601.jpg');}
   &.color-swatch--781-seersucker {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-781.jpg');}
+
   &.color-swatch--100-101 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-100-101.png');}
   &.color-swatch--108-136 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-108-136.png');}
-  //&.color-swatch--100-101 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-100-101.jpg');}
-  //&.color-swatch--100-101 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-100-101.jpg');}
 
   &.color-swatch--transit-128,
   &.color-swatch--transit-blue-navy {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-100-101.png');}
