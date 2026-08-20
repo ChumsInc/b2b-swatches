@@ -24,12 +24,12 @@ label.color-swatch,
   &.color-swatch--107 {background-color: #eeeeee;}
   &.color-swatch--108 {background-color: #ffdf28;}
   &.color-swatch--109 {background-color: #754f9f;}
-  &.color-swatch--110 {background-color: var(--missing-swatch);}
+  &.color-swatch--110 {background-color: #42a1d1;}
   &.color-swatch--111 {background-color: #2cb156;}
   &.color-swatch--112 {background-color: var(--missing-swatch);}
   &.color-swatch--113 {background-color: #dcc7b3;}
   &.color-swatch--ss113 {background-image: url('//b2b.chums.com/images/swatches/2020/113-swatch-angle.jpg');}
-  &.color-swatch--114 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-114.png');}
+  &.color-swatch--114 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-rover-114.jpg');}
   &.color-swatch--rover-114 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-rover-114.jpg');}
   &.color-swatch--tri-114 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-114.png');}
   &.color-swatch--115 {background-color: var(--missing-swatch);}
@@ -391,9 +391,9 @@ label.color-swatch,
   &.color-swatch--474 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_474_Ovals.jpg');}
   &.color-swatch--475 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_475_Wildflower.jpg');}
   &.color-swatch--476 {background-color: var(--missing-swatch);}
-  &.color-swatch--477 {background-color: var(--missing-swatch);}
-  &.color-swatch--478 {background-color: var(--missing-swatch);}
-  &.color-swatch--479 {background-color: var(--missing-swatch);}
+  &.color-swatch--477 {background-color: #bf9000;}
+  &.color-swatch--478 {background-color: #999999;}
+  &.color-swatch--479 {background-color: #434343;}
   &.color-swatch--480 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_480_MushroomRust.jpg');}
   &.color-swatch--tri-480 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_480_MushroomRust.jpg');}
   &.color-swatch--481 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_481_GreenTieDye.jpg');}
@@ -406,28 +406,39 @@ label.color-swatch,
   &.color-swatch--486 {background-color: var(--missing-swatch);}
   &.color-swatch--487 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_487_Mushroom_Daytripper.jpg');}
   &.color-swatch--tri-487 {background-image: url('//b2b.chums.com/images/swatches/2025/Swatch_487_Mushroom.jpg');}
-  &.color-swatch--488 {background-color: var(--missing-swatch);}
-  &.color-swatch--489 {background-color: var(--missing-swatch);}
-  &.color-swatch--490 {background-color: var(--missing-swatch);}
+  &.color-swatch--488 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-488.jpg');}
+  &.color-swatch--489 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-489.jpg');}
+  &.color-swatch--490 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-490.jpg');}
   &.color-swatch--491 {background-color: var(--missing-swatch);}
   &.color-swatch--492 {background-color: var(--missing-swatch);}
-  &.color-swatch--493 {background-color: var(--missing-swatch);}
-  &.color-swatch--494 {background-color: var(--missing-swatch);}
-  &.color-swatch--495 {background-color: var(--missing-swatch);}
+  &.color-swatch--493 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-493.jpg');}
+  &.color-swatch--494 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-494.jpg');}
+  &.color-swatch--495 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-495.jpg');}
   &.color-swatch--496 {background-color: var(--missing-swatch);}
   &.color-swatch--497 {background-color: var(--missing-swatch);}
-  &.color-swatch--498 {background-color: var(--missing-swatch);}
+  &.color-swatch--498 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-498.jpg');}
   &.color-swatch--499 {background-color: var(--missing-swatch);}
 
   &.color-swatch--500 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-500.png');}
   &.color-swatch--501 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-501.png');}
   &.color-swatch--504 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-504.png');}
+  &.color-swatch--505 {background-color: #186859;}
   &.color-swatch--512 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-512.jpg');}
   &.color-swatch--513 {background-color: #35535F; border: 3px solid #928456;}
   &.color-swatch--sleeper-513 {background-color: #35535F; border-right: 10px solid #928456;}
   &.color-swatch--514 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-514.jpg');}
   &.color-swatch--ss514 {background-image: url('//b2b.chums.com/images/swatches/2021/swatch-ss-angled-514.jpg');}
   &.color-swatch--515 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-515.png');}
+  &.color-swatch--517 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-517.jpg');}
+  &.color-swatch--518 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-518.jpg');}
+  &.color-swatch--519 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-519.jpg');}
+  &.color-swatch--520 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-520.jpg');}
+  &.color-swatch--521 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-521.jpg');}
+  &.color-swatch--522 {background-color: var(--missing-swatch);}
+  &.color-swatch--523 {background-color: var(--missing-swatch);}
+  &.color-swatch--524 {background-color: var(--missing-swatch);}
+  &.color-swatch--525 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-525.jpg');}
+  &.color-swatch--526 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-526.jpg');}
 
 
   &.color-swatch--560 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-560.png');}
@@ -436,6 +447,9 @@ label.color-swatch,
   &.color-swatch--562 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-562.png');}
   &.color-swatch--570 {background-color: var(--missing-swatch);}
   &.color-swatch--baja-570 {background-image: url('//b2b.chums.com/images/swatches/2025/swatch-baja-570.jpg');}
+  &.color-swatch--571 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-571.jpg');}
+  &.color-swatch--572 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-572.jpg');}
+  &.color-swatch--573 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-573.jpg');}
 
   &.color-swatch--601 {background-color: #13c9eb;}
   &.color-swatch--ratchet-601 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-ratchet-601.jpg');}
@@ -452,6 +466,9 @@ label.color-swatch,
   &.color-swatch--ss660 {background-image: url('//b2b.chums.com/images/swatches/2022/swatch-660.png');}
   &.color-swatch--662 {background-image: url('//b2b.chums.com/images/swatches/2022/swatch-662.png');}
   &.color-swatch--ss662 {background-image: url('//b2b.chums.com/images/swatches/2022/swatch-662.png');}
+  &.color-swatch--690 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-690.jpg');}
+  &.color-swatch--692 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-692.jpg');}
+  &.color-swatch--698 {background-image: url('//b2b.chums.com/images/swatches/2026/swatch-698.jpg');}
   &.color-swatch--699 {background-image: url('//b2b.chums.com/images/swatches/2024/swatch-699.jpg');}
 
   &.color-swatch--701 {background-image: url('//b2b.chums.com/images/swatches/2020/swatch-701.png');}
